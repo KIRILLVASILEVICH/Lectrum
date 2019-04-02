@@ -1,2 +1,0 @@
-# Lectrum
-My homework
